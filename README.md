@@ -4,6 +4,9 @@
 
 Julia is an application used to draw cool pictures based on the work of the mathematician Gaston Julia. All you have to do is choose a color, a complex number and a color intensity and click on the draw button to get your cool picture. If you don't have any imagination and can't come up with numbers, just press the randomize button to get a random picture.
 
+![Figure 1](Figures/Figure1.png) ![Figure 2](Figures/Figure2.png)
+![Figure 3](Figures/Figure3.png) ![Figure 4](Figures/Figure4.png)
+
 ## About the project
 
 The purpose with this project was primarily to learn how to make android applications using Android Studio. The Julia project provided a perfect amount of challenge when learning working with a new environment. The project required me to create different activites, creating layouts and also implementing the logic regarding Julia sets.
