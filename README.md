@@ -3,7 +3,7 @@
 ## About the application
 
 Julia is an application used to draw cool pictures based on the work of the mathematician Gaston Julia. All you have to do is choose a color, a complex number and a color intensity and click on the draw button to get your cool picture. If you don't have any imagination and can't come up with numbers, just press the randomize button to get a random picture.
-<img src="Figures/Figure1.png" width="100" height="100" />
+<img src="Figures/Figure1.png" width="400" height="700" /> <img src="Figures/Figure2.png" width="400" height="700" />
 ![Figure 1](Figures/Figure1.png) ![Figure 2](Figures/Figure2.png)
 ![Figure 3](Figures/Figure3.png) ![Figure 4](Figures/Figure4.png)
 
