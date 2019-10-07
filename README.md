@@ -10,7 +10,7 @@ The purpose with this project was primarily to learn how to make android applica
 
 ### How to draw Julia sets
 
-This application uses the recursive function f<sub>n+1</sub> = fn^2+C where C is specified by the user. For each pixel, take the pixel's x-position as the real part of f0 and the y-position as the imaginary part of f0. If the recursive function diverges, paint the pixel with a color intensity that depends on the amount of recursions needed for fn to exceed a predetermined number. If the recursive function does not diverge, paint the pixel black.
+This application uses the recursive function f<sub>n+1</sub> = f<sub>n</sub><sup>2</sup>+C where C is specified by the user. For each pixel, take the pixel's x-position as the real part of f<sub>0</sub> and the y-position as the imaginary part of f<sub>0</sub>. If the recursive function diverges, paint the pixel with a color intensity that depends on the amount of recursions needed for |f<sub>n</sub>| > 4. If the recursive function does not diverge, paint the pixel black.
 
 ## How to install the game
 **Note** that the application can only be installed on android units
